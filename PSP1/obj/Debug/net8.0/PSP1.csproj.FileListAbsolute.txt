@@ -1,0 +1,14 @@
+C:\Users\acces\RiderProjects\PrimerasPruebasCon.Net\PSP1\bin\Debug\net8.0\PSP1.exe
+C:\Users\acces\RiderProjects\PrimerasPruebasCon.Net\PSP1\bin\Debug\net8.0\PSP1.deps.json
+C:\Users\acces\RiderProjects\PrimerasPruebasCon.Net\PSP1\bin\Debug\net8.0\PSP1.runtimeconfig.json
+C:\Users\acces\RiderProjects\PrimerasPruebasCon.Net\PSP1\bin\Debug\net8.0\PSP1.dll
+C:\Users\acces\RiderProjects\PrimerasPruebasCon.Net\PSP1\bin\Debug\net8.0\PSP1.pdb
+C:\Users\acces\RiderProjects\PrimerasPruebasCon.Net\PSP1\obj\Debug\net8.0\PSP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acces\RiderProjects\PrimerasPruebasCon.Net\PSP1\obj\Debug\net8.0\PSP1.AssemblyInfoInputs.cache
+C:\Users\acces\RiderProjects\PrimerasPruebasCon.Net\PSP1\obj\Debug\net8.0\PSP1.AssemblyInfo.cs
+C:\Users\acces\RiderProjects\PrimerasPruebasCon.Net\PSP1\obj\Debug\net8.0\PSP1.csproj.CoreCompileInputs.cache
+C:\Users\acces\RiderProjects\PrimerasPruebasCon.Net\PSP1\obj\Debug\net8.0\PSP1.dll
+C:\Users\acces\RiderProjects\PrimerasPruebasCon.Net\PSP1\obj\Debug\net8.0\refint\PSP1.dll
+C:\Users\acces\RiderProjects\PrimerasPruebasCon.Net\PSP1\obj\Debug\net8.0\PSP1.pdb
+C:\Users\acces\RiderProjects\PrimerasPruebasCon.Net\PSP1\obj\Debug\net8.0\PSP1.genruntimeconfig.cache
+C:\Users\acces\RiderProjects\PrimerasPruebasCon.Net\PSP1\obj\Debug\net8.0\ref\PSP1.dll
