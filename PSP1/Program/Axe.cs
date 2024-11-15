@@ -1,4 +1,4 @@
-namespace PSP1;
+namespace PSP1.Program;
 
 public class Axe: Weapon
 {
